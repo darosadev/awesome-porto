@@ -1,0 +1,3 @@
+- Languages
+  - [:uk: EN](/)
+  - [:portugal: PT](/pt/)

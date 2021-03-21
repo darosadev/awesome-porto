@@ -11,20 +11,28 @@
     />
     <link rel="stylesheet" href="vendor/themes/buble.css" />
   </head>
-  <body class="ready">
+  <body>
     <div id="app"></div>
     <script>
       window.$docsify = {
         name: "awesome-porto",
-        repo: "https://github.com/darosadev/awesome-porto",
+        coverpage: true,
+        loadNavbar: "nav.md",
+        loadSidebar: "summary.md",
+        search: {
+          placeholder: {
+            "/pt/": "Digite para procurar",
+            "/": "Type to search",
+          },
+          noData: {
+            "/pt/": "Sem Resultados",
+            "/": "No Results",
+          },
+        },
       };
     </script>
     <script src="vendor/docsify.js"></script>
-    <script>
-      window.$docsify = {
-        coverpage: true,
-      };
-    </script>
-    <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
   </body>
 </html>
