@@ -9,3 +9,11 @@ Are you coming to (or just arrived) in Porto? Awesome! In the table below you wi
 Other languages:
 
 [Portuguese](/pt/)
+
+| Task                                      | When                                         | Where                                       | Requirements               |
+| ----------------------------------------- | -------------------------------------------- | ------------------------------------------- | -------------------------- |
+| Get Land Registry Certificate             | First days                                   | SEF or at the city's 'Espaço do Cidadão'    | TODO_SEND_PR               |
+| Buy public transportation pass            | First days                                   | On an Andante store or using the app "Anda" | None                       |
+| Have a portuguese phone number (pre-paid) | Can be done on the first days                | On every Vodafone, MEO, NOS ou Uzo store    | None                       |
+| Open a bank account                       | After getting your Land Registry Certificate | On a bank of your choice                    | Passport and home registry |
+| Rent apartment/house                      | The sooner the better                        | Specific websites                           | TODO_SEND_PR               |

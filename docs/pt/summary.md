@@ -1,1 +1,1 @@
-- [Primeiros Passos](#primeiros-passos)
+- [Primeiros Passos](/pt/#primeiros-passos)
